@@ -1,0 +1,488 @@
+[
+  {
+    "id": "1",
+    "name": "Red",
+    "family": "reds",
+    "hex": "#ff0000",
+    "rgb": "rgb(255,0,0)",
+    "cssColorName": "red",
+    "webSafe": true
+  },
+  {
+    "id": "2",
+    "name": "Green",
+    "family": "greens",
+    "hex": "#008000",
+    "rgb": "rgb(0,128,0)",
+    "cssColorName": "green",
+    "webSafe": true
+  },
+  {
+    "id": "3",
+    "name": "Blue",
+    "family": "blues",
+    "hex": "#0000ff",
+    "rgb": "rgb(0,0,255)",
+    "cssColorName": "blue",
+    "webSafe": true
+  },
+  {
+    "id": "4",
+    "name": "Light Salmon",
+    "family": "reds",
+    "hex": "#ffa07a",
+    "rgb": "rgb(255,160,122)",
+    "cssColorName": "lightsalmon",
+    "webSafe": true
+  },
+  {
+    "id": "5",
+    "name": "Pale Green",
+    "family": "greens",
+    "hex": "#98fb98",
+    "rgb": "rgb(152,251,152)",
+    "cssColorName": "palegreen",
+    "webSafe": true
+  },
+  {
+    "id": "6",
+    "name": "Light Blue",
+    "family": "blues",
+    "hex": "#add8e6",
+    "rgb": "rgb(173,216,230)",
+    "cssColorName": "lightblue",
+    "webSafe": true
+  },
+  {
+    "id": "7",
+    "name": "Light Coral",
+    "family": "reds",
+    "hex": "#f08080",
+    "rgb": "rgb(240,128,128)",
+    "cssColorName": "lightcoral",
+    "webSafe": true
+  },
+  {
+    "id": "8",
+    "name": "Light Green",
+    "family": "greens",
+    "hex": "#90ee90",
+    "rgb": "rgb(144,238,144)",
+    "cssColorName": "lightgreen",
+    "webSafe": true
+  },
+  {
+    "id": "9",
+    "name": "Light Steel Blue",
+    "family": "blues",
+    "hex": "#b0c4de",
+    "rgb": "rgb(176,196,222)",
+    "cssColorName": "lightsteelblue",
+    "webSafe": true
+  },
+  {
+    "id": "10",
+    "name": "Salmon",
+    "family": "reds",
+    "hex": "#fa8072",
+    "rgb": "rgb(250,128,114)",
+    "cssColorName": "salmon",
+    "webSafe": true
+  },
+  {
+    "id": "11",
+    "name": "Dark Sea Green",
+    "family": "greens",
+    "hex": "#8fbc8f",
+    "rgb": "rgb(143,188,143)",
+    "cssColorName": "darkseagreen",
+    "webSafe": true
+  },
+  {
+    "id": "12",
+    "name": "Light Sky Blue",
+    "family": "blues",
+    "hex": "#87cefa",
+    "rgb": "rgb(135,206,250)",
+    "cssColorName": "lightskyblue",
+    "webSafe": true
+  },
+  {
+    "id": "13",
+    "name": "Dark Salmon",
+    "family": "reds",
+    "hex": "#e9967a",
+    "rgb": "rgb(233,150,122)",
+    "cssColorName": "darksalmon",
+    "webSafe": true
+  },
+  {
+    "id": "14",
+    "name": "Green Yellow",
+    "family": "greens",
+    "hex": "#adff2f",
+    "rgb": "rgb(173,255,47)",
+    "cssColorName": "greenyellow",
+    "webSafe": true
+  },
+  {
+    "id": "15",
+    "name": "Sky Blue",
+    "family": "blues",
+    "hex": "#87ceeb",
+    "rgb": "rgb(135,206,235)",
+    "cssColorName": "skyblue",
+    "webSafe": true
+  },
+  {
+    "id": "16",
+    "name": "Tomato",
+    "family": "reds",
+    "hex": "#ff6347",
+    "rgb": "rgb(255,99,71)",
+    "cssColorName": "tomato",
+    "webSafe": true
+  },
+  {
+    "id": "17",
+    "name": "Lime",
+    "family": "greens",
+    "hex": "#00ff00",
+    "rgb": "rgb(0,255,0)",
+    "cssColorName": "lime",
+    "webSafe": true
+  },
+  {
+    "id": "18",
+    "name": "Cornflower Blue",
+    "family": "blues",
+    "hex": "#6495ed",
+    "rgb": "rgb(100,149,237)",
+    "cssColorName": "cornflowerblue",
+    "webSafe": true
+  },
+  {
+    "id": "19",
+    "name": "Indian Red",
+    "family": "reds",
+    "hex": "#cd5c5c",
+    "rgb": "rgb(205,92,92)",
+    "cssColorName": "indianred",
+    "webSafe": true
+  },
+  {
+    "id": "20",
+    "name": "Spring Green",
+    "family": "greens",
+    "hex": "#00ff7f",
+    "rgb": "rgb(0,255,127)",
+    "cssColorName": "springgreen",
+    "webSafe": true
+  },
+  {
+    "id": "21",
+    "name": "Royal Blue",
+    "family": "blues",
+    "hex": "#4169e1",
+    "rgb": "rgb(65,105,225)",
+    "cssColorName": "royalblue",
+    "webSafe": true
+  },
+  {
+    "id": "22",
+    "name": "Orange Red",
+    "family": "reds",
+    "hex": "#ff4500",
+    "rgb": "rgb(255,69,0)",
+    "cssColorName": "orangered",
+    "webSafe": true
+  },
+  {
+    "id": "23",
+    "name": "Chartreuse",
+    "family": "greens",
+    "hex": "#7fff00",
+    "rgb": "rgb(127,255,0)",
+    "cssColorName": "chartreuse",
+    "webSafe": true
+  },
+  {
+    "id": "24",
+    "name": "Dodger Blue",
+    "family": "blues",
+    "hex": "#1e90ff",
+    "rgb": "rgb(30,144,255)",
+    "cssColorName": "dodgerblue",
+    "webSafe": true
+  },
+  {
+    "id": "25",
+    "name": "Crimson",
+    "family": "reds",
+    "hex": "#dc143c",
+    "rgb": "rgb(220,20,60)",
+    "cssColorName": "crimson",
+    "webSafe": true
+  },
+  {
+    "id": "26",
+    "name": "Lime Green",
+    "family": "greens",
+    "hex": "#32cd32",
+    "rgb": "rgb(50,205,50)",
+    "cssColorName": "limegreen",
+    "webSafe": true
+  },
+  {
+    "id": "27",
+    "name": "Deep Sky Blue",
+    "family": "blues",
+    "hex": "#00bfff",
+    "rgb": "rgb(0,191,255)",
+    "cssColorName": "deepskyblue",
+    "webSafe": true
+  },
+  {
+    "id": "28",
+    "name": "Fire Brick",
+    "family": "reds",
+    "hex": "#b22222",
+    "rgb": "rgb(178,34,34)",
+    "cssColorName": "firebrick",
+    "webSafe": true
+  },
+  {
+    "id": "29",
+    "name": "Medium Spring Green",
+    "family": "greens",
+    "hex": "#00fa9a",
+    "rgb": "rgb(0,250,154)",
+    "cssColorName": "mediumspringgreen",
+    "webSafe": true
+  },
+  {
+    "id": "30",
+    "name": "Steel Blue",
+    "family": "blues",
+    "hex": "#4682b4",
+    "rgb": "rgb(70,130,180)",
+    "cssColorName": "steelblue",
+    "webSafe": true
+  },
+  {
+    "id": "31",
+    "name": "Dark Red",
+    "family": "reds",
+    "hex": "#8b0000",
+    "rgb": "rgb(139,0,0)",
+    "cssColorName": "darkred",
+    "webSafe": true
+  },
+  {
+    "id": "32",
+    "name": "Lawn Green",
+    "family": "greens",
+    "hex": "#7cfc00",
+    "rgb": "rgb(124,252,0)",
+    "cssColorName": "lawngreen",
+    "webSafe": true
+  },
+  {
+    "id": "33",
+    "name": "Medium Blue",
+    "family": "blues",
+    "hex": "#0000cd",
+    "rgb": "rgb(0,0,205)",
+    "cssColorName": "mediumblue",
+    "webSafe": true
+  },
+  {
+    "id": "34",
+    "name": "Maroon",
+    "family": "reds",
+    "hex": "#800000",
+    "rgb": "rgb(128,0,0)",
+    "cssColorName": "maroon",
+    "webSafe": true
+  },
+  {
+    "id": "35",
+    "name": "Medium Sea Green",
+    "family": "greens",
+    "hex": "#3cb371",
+    "rgb": "rgb(60,179,113)",
+    "cssColorName": "mediumseagreen",
+    "webSafe": true
+  },
+  {
+    "id": "36",
+    "name": "Dark Blue",
+    "family": "blues",
+    "hex": "#00008b",
+    "rgb": "rgb(0,0,139)",
+    "cssColorName": "darkblue",
+    "webSafe": true
+  },
+  {
+    "id": "37",
+    "name": "Barn Red",
+    "family": "reds",
+    "hex": "#7c0a02",
+    "rgb": "rgb(124,10,2)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "38",
+    "name": "Sea Green",
+    "family": "greens",
+    "hex": "#2e8b57",
+    "rgb": "rgb(46,139,87)",
+    "cssColorName": "seagreen",
+    "webSafe": true
+  },
+  {
+    "id": "39",
+    "name": "Midnight Blue",
+    "family": "blues",
+    "hex": "#191970",
+    "rgb": "rgb(25,25,112)",
+    "cssColorName": "midnightblue",
+    "webSafe": true
+  },
+  {
+    "id": "40",
+    "name": "Red Devil",
+    "family": "reds",
+    "hex": "#860111",
+    "rgb": "rgb(134,1,17)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "41",
+    "name": "Forest Green",
+    "family": "greens",
+    "hex": "#228b22",
+    "rgb": "rgb(34,139,34)",
+    "cssColorName": "forestgreen",
+    "webSafe": true
+  },
+  {
+    "id": "42",
+    "name": "Navy",
+    "family": "blues",
+    "hex": "#000080",
+    "rgb": "rgb(0,0,128)",
+    "cssColorName": "navy",
+    "webSafe": true
+  },
+  {
+    "id": "43",
+    "name": "Falu Red",
+    "family": "reds",
+    "hex": "#801818",
+    "rgb": "rgb(128,24,24)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "44",
+    "name": "Dark Green",
+    "family": "greens",
+    "hex": "#006400",
+    "rgb": "rgb(0,100,0)",
+    "cssColorName": "darkgreen",
+    "webSafe": true
+  },
+  {
+    "id": "45",
+    "name": "Dark Powder Blue",
+    "family": "blues",
+    "hex": "#000039",
+    "rgb": "rgb(0,0,57)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "46",
+    "name": "Dark Candy Apple Red",
+    "family": "reds",
+    "hex": "#a40000",
+    "rgb": "rgb(164,0,0)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "47",
+    "name": "UP Forest Green",
+    "family": "greens",
+    "hex": "#014421",
+    "rgb": "rgb(1,68,33)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "48",
+    "name": "Dark Midnight Blue",
+    "family": "blues",
+    "hex": "#000036",
+    "rgb": "rgb(0,0,54)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "49",
+    "name": "Mordant Red",
+    "family": "reds",
+    "hex": "#ae0c00",
+    "rgb": "rgb(174,12,0)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "50",
+    "name": "British Racing Green",
+    "family": "greens",
+    "hex": "#004225",
+    "rgb": "rgb(0,66,37)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "51",
+    "name": "Oxford Blue",
+    "family": "blues",
+    "hex": "#002147",
+    "rgb": "rgb(0,33,71)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "52",
+    "name": "Ruby Red",
+    "family": "reds",
+    "hex": "#9b111e",
+    "rgb": "rgb(155,17,30)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "53",
+    "name": "Pthalo Green",
+    "family": "greens",
+    "hex": "#123524 ",
+    "rgb": "rgb(18,53,36)",
+    "cssColorName": "None",
+    "webSafe": false
+  },
+  {
+    "id": "54",
+    "name": "Prussian Blue",
+    "family": "blues",
+    "hex": "#003153",
+    "rgb": "rgb(0,49,83)",
+    "cssColorName": "None",
+    "webSafe": false
+  }
+]
